@@ -1,13 +1,13 @@
 [
   {
-    "modid": "templatemod",
-    "name": "TemplateMod",
-    "description": "",
+    "modid": "optifine-vbo-fix",
+    "name": "optifine-vbo-fix",
+    "description": "make VBOs function as intended with OptiFine 1.8.9",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/My-Name-Is-Jeff/basic-mixin-template",
+    "url": "https://github.com/calcastor/optifine-vbo-fix",
     "updateUrl": "",
-    "authorList": ["My-Name-Is-Jeff"],
+    "authorList": ["calcastor"],
     "credits": "",
     "logoFile": "",
     "screenshots": [],
