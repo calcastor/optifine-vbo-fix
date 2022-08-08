@@ -3,7 +3,8 @@
   "package": "dev.calcastor.vbofix.mixins",
   "refmap": "mixins.vbofix.refmap.json",
   "mixins": [
-    "RenderGlobalMixin"
+    "RenderGlobalMixin",
+    "VertexBufferMixin"
   ],
   "verbose": true
 }
